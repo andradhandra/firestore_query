@@ -1,0 +1,16 @@
+{
+  "name": "firestore",
+  "version": "1.0.0",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^9.6.0",
+    "firebase-admin": "^9.12.0",
+    "firestore-export-import": "^0.17.0"
+  }
+}

@@ -1,0 +1,1339 @@
+ [
+        {
+          "id": 1,
+          "pengantin": "Inta",
+          "nama": "Bude Fifi & Nindy",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 2,
+          "pengantin": "Inta",
+          "nama": "Meta & Yadi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 3,
+          "pengantin": "Inta",
+          "nama": "Iman & Mirza",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 4,
+          "pengantin": "Inta",
+          "nama": "Dinar & Dodi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 5,
+          "pengantin": "Inta",
+          "nama": "Azana",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 6,
+          "pengantin": "Inta",
+          "nama": "Mbak Dara",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 7,
+          "pengantin": "Inta",
+          "nama": "Ninuk & Okky",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 8,
+          "pengantin": "Inta",
+          "nama": "Pasha & Istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 9,
+          "pengantin": "Inta",
+          "nama": "Niki",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 10,
+          "pengantin": "Inta",
+          "nama": "Tara & Gesang",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 11,
+          "pengantin": "Inta",
+          "nama": "Boyke & Dian",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 12,
+          "pengantin": "Inta",
+          "nama": "Ario & Susi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 13,
+          "pengantin": "Inta",
+          "nama": "Deeva & Sarah",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 14,
+          "pengantin": "Inta",
+          "nama": "Ami",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 15,
+          "pengantin": "Inta",
+          "nama": "Tema & Dimi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 16,
+          "pengantin": "Inta",
+          "nama": "Mita",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 17,
+          "pengantin": "Inta",
+          "nama": "Rhesty",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 18,
+          "pengantin": "Inta",
+          "nama": "Ogi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 19,
+          "pengantin": "Inta",
+          "nama": "Mahwan & Mala",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 20,
+          "pengantin": "Inta",
+          "nama": "Mahsya",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 21,
+          "pengantin": "Inta",
+          "nama": "Almer & Belangi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 22,
+          "pengantin": "Inta",
+          "nama": "Medi & Gatot",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 23,
+          "pengantin": "Inta",
+          "nama": "Bambang",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 24,
+          "pengantin": "Inta",
+          "nama": "Dadi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 25,
+          "pengantin": "Inta",
+          "nama": "Kang Mamat",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 26,
+          "pengantin": "Inta",
+          "nama": "Azis Surachman & Ida",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 27,
+          "pengantin": "Inta",
+          "nama": "Adi & Anti",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 28,
+          "pengantin": "Inta",
+          "nama": "Ahmad Said & Lina",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 29,
+          "pengantin": "Inta",
+          "nama": "Aninda & Jo",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 30,
+          "pengantin": "Inta",
+          "nama": "Sarah",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 31,
+          "pengantin": "Inta",
+          "nama": "Hasan Manaf & Novi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 32,
+          "pengantin": "Inta",
+          "nama": "Syifa & Yugi",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 33,
+          "pengantin": "Inta",
+          "nama": "Ira",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 34,
+          "pengantin": "Inta",
+          "nama": "Utama Kamal & Wati",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 35,
+          "pengantin": "Inta",
+          "nama": "Dhifa & Shoffy",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 36,
+          "pengantin": "Inta",
+          "nama": "Ade Komara & Lena",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 37,
+          "pengantin": "Inta",
+          "nama": "Umar",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 70,
+          "pengantin": "Inta",
+          "nama": "Wa Cecep",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 71,
+          "pengantin": "Inta",
+          "nama": "Ce Bea",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 38,
+          "pengantin": "Inta",
+          "nama": "Sabrina Napitupulu",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 39,
+          "pengantin": "Inta",
+          "nama": "Ranita Ria Dwita",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 40,
+          "pengantin": "Inta",
+          "nama": "Farah Balqish",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 41,
+          "pengantin": "Inta",
+          "nama": "Citra Rizky Fajar",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 42,
+          "pengantin": "Inta",
+          "nama": "Fatimah Hizria",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 43,
+          "pengantin": "Inta",
+          "nama": "Fanny & Jalu",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 44,
+          "pengantin": "Inta",
+          "nama": "Indri & Ikram",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 45,
+          "pengantin": "Inta",
+          "nama": "Siti Nur Mawaddah Amini",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 46,
+          "pengantin": "Inta",
+          "nama": "Risa Annisa Febry",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 47,
+          "pengantin": "Inta",
+          "nama": "Kak Ningsih & Tio",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 48,
+          "pengantin": "Inta",
+          "nama": "Iftinavia & Adnan",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 49,
+          "pengantin": "Inta",
+          "nama": "Rico",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 50,
+          "pengantin": "Inta",
+          "nama": "Aam & Aca",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 95,
+          "pengantin": "Inta",
+          "nama": "Pak Arfi",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 96,
+          "pengantin": "Inta",
+          "nama": "Bu Diah",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 97,
+          "pengantin": "Inta",
+          "nama": "Bu Lia",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 98,
+          "pengantin": "Inta",
+          "nama": "Suami bu Lia",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 99,
+          "pengantin": "Inta",
+          "nama": "Om Haris",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 100,
+          "pengantin": "Inta",
+          "nama": "Istri Om Haris",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 101,
+          "pengantin": "Inta",
+          "nama": "Om Ambar",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 102,
+          "pengantin": "Inta",
+          "nama": "Teman bapak 1",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 103,
+          "pengantin": "Inta",
+          "nama": "Teman bapak 2",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 104,
+          "pengantin": "Inta",
+          "nama": "Teman bapak 3",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 105,
+          "pengantin": "Inta",
+          "nama": "Teman bapak 4",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 106,
+          "pengantin": "Inta",
+          "nama": "Teman bapak 5",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 107,
+          "pengantin": "Inta",
+          "nama": "Bu Fath",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 108,
+          "pengantin": "Inta",
+          "nama": "Suami bu Fath",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 109,
+          "pengantin": "Inta",
+          "nama": "Tante Bibin",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 110,
+          "pengantin": "Inta",
+          "nama": "Suami tante Bibin",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 111,
+          "pengantin": "Inta",
+          "nama": "Tante Wika",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 112,
+          "pengantin": "Inta",
+          "nama": "Suami tante Wika",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 113,
+          "pengantin": "Inta",
+          "nama": "Tante Mala",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 114,
+          "pengantin": "Inta",
+          "nama": "Suami tante Mala",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 115,
+          "pengantin": "Inta",
+          "nama": "Bu Nenny",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 116,
+          "pengantin": "Inta",
+          "nama": "Om Yudi",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 117,
+          "pengantin": "Inta",
+          "nama": "Mbak Yayuk",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 118,
+          "pengantin": "Inta",
+          "nama": "Tante Rini",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 119,
+          "pengantin": "Inta",
+          "nama": "Suami tante Rini",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 120,
+          "pengantin": "Inta",
+          "nama": "Tante Endang",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 51,
+          "pengantin": "Inta",
+          "nama": "Gendis & suami",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 123,
+          "pengantin": "Inta",
+          "nama": "Mbak Cici",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 124,
+          "pengantin": "Inta",
+          "nama": "Mas Yudi",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 52,
+          "pengantin": "Inta",
+          "nama": "Arimbi",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 53,
+          "pengantin": "Inta",
+          "nama": "Radika",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 54,
+          "pengantin": "Inta",
+          "nama": "Nunik & suami",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 55,
+          "pengantin": "Inta",
+          "nama": "Febry Vinnesa Putri",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 56,
+          "pengantin": "Inta",
+          "nama": "Fahmi Fikri & Istri",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 135,
+          "pengantin": "Inta",
+          "nama": "Grace Amelia",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 136,
+          "pengantin": "Inta",
+          "nama": "Mas Oki",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 137,
+          "pengantin": "Inta",
+          "nama": "Saidah Humairo",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 138,
+          "pengantin": "Inta",
+          "nama": "Pacar kak Sai",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 139,
+          "pengantin": "Inta",
+          "nama": "Muhammad Firmansyah",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 140,
+          "pengantin": "Inta",
+          "nama": "Istri mas Firman",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 141,
+          "pengantin": "Inta",
+          "nama": "Aquilina",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 142,
+          "pengantin": "Inta",
+          "nama": "Pacar mbak Lina",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 57,
+          "pengantin": "Inta",
+          "nama": "Adiguna Indrajaya",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 58,
+          "pengantin": "Inta",
+          "nama": "Della",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 147,
+          "pengantin": "Inta",
+          "nama": "Teman ibu",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 148,
+          "pengantin": "Inta",
+          "nama": "Teman ibu",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 59,
+          "pengantin": "Inta",
+          "nama": "Rima & suami",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 60,
+          "pengantin": "Inta",
+          "nama": "Widuri & suami",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 61,
+          "pengantin": "Inta",
+          "nama": "Hana & mas Joko",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 62,
+          "pengantin": "Inta",
+          "nama": "Cindy Putri Saladdin",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 63,
+          "pengantin": "Inta",
+          "nama": "Kak Alyn & bang Yahya",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 64,
+          "pengantin": "Inta",
+          "nama": "Anna & Dio",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 161,
+          "pengantin": "Inta",
+          "nama": "Kak Ayu Dance",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 162,
+          "pengantin": "Inta",
+          "nama": "Suami kak Ayu",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 65,
+          "pengantin": "Inta",
+          "nama": "Kak Bena & suami",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 66,
+          "pengantin": "Inta",
+          "nama": "Naila",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 67,
+          "pengantin": "Inta",
+          "nama": "Aime & suami",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 68,
+          "pengantin": "Inta",
+          "nama": "Dimas Juniarko",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 69,
+          "pengantin": "Inta",
+          "nama": "om Reinaldi",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 70,
+          "pengantin": "Inta",
+          "nama": "tante Merry",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 71,
+          "pengantin": "Inta",
+          "nama": "Tante Molek",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 72,
+          "pengantin": "Inta",
+          "nama": "Suami tante Molek",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 75,
+          "pengantin": "Lazuardi",
+          "nama": "Vivi dan partner",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 171,
+          "pengantin": "Lazuardi",
+          "nama": "Pakde Suwito & istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 172,
+          "pengantin": "Lazuardi",
+          "nama": "Bude Eva dan keluarga",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 173,
+          "pengantin": "Lazuardi",
+          "nama": "Tante Edwi dan keluarga",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 174,
+          "pengantin": "Lazuardi",
+          "nama": "Om Robi & istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 175,
+          "pengantin": "Lazuardi",
+          "nama": "Om Eddy & istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 176,
+          "pengantin": "Lazuardi",
+          "nama": "Om Yeyen & istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 177,
+          "pengantin": "Lazuardi",
+          "nama": "Bude Wiwit & keluarga",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 178,
+          "pengantin": "Lazuardi",
+          "nama": "Pakde Budi & keluarga",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 179,
+          "pengantin": "Lazuardi",
+          "nama": "Bulek Dien dan keluarga",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 180,
+          "pengantin": "Lazuardi",
+          "nama": "Bude Diah & keluarga",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 181,
+          "pengantin": "Lazuardi",
+          "nama": "Pakde Heri & istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 182,
+          "pengantin": "Lazuardi",
+          "nama": "Pakde Wawah & istri",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 183,
+          "pengantin": "Lazuardi",
+          "nama": "Faristian & istri",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 184,
+          "pengantin": "Lazuardi",
+          "nama": "Tejo & istri",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 185,
+          "pengantin": "Lazuardi",
+          "nama": "M Nur & istri",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 186,
+          "pengantin": "Lazuardi",
+          "nama": "Muaidin & istri",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 187,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 188,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 189,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 190,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 191,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 192,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 193,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 194,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 195,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 196,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 197,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 198,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 199,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 200,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 201,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 202,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 203,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 204,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 205,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 1,
+          "undangan": "Digital"
+        },
+        {
+          "id": 206,
+          "pengantin": "Lazuardi",
+          "nama": "Kombes pol Gatot",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 207,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 208,
+          "pengantin": "Lazuardi",
+          "nama": "Akbp Lukman",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 209,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 210,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 211,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 212,
+          "pengantin": "Lazuardi",
+          "nama": "Iptu Sutanto",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 213,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 214,
+          "pengantin": "Lazuardi",
+          "nama": "Iptu Mulyono",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 215,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 216,
+          "pengantin": "Lazuardi",
+          "nama": "Ipda Wandono",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 217,
+          "pengantin": "Lazuardi",
+          "nama": "Ipda Subagyo",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 218,
+          "pengantin": "Lazuardi",
+          "nama": "Pak Halim JUBIR CPP",
+          "sesi": 1,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 219,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 220,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 221,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 222,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 223,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 224,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 225,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 226,
+          "pengantin": "Lazuardi",
+          "nama": "",
+          "sesi": 2,
+          "undangan": "Digital"
+        },
+        {
+          "id": 227,
+          "pengantin": "Lazuardi",
+          "nama": "Bapaknya Rizka",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 228,
+          "pengantin": "Lazuardi",
+          "nama": "Ibunya Rizka",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 229,
+          "pengantin": "Lazuardi",
+          "nama": "Heru",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 230,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 231,
+          "pengantin": "Lazuardi",
+          "nama": "Lukman",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 232,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 233,
+          "pengantin": "Lazuardi",
+          "nama": "Rian",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 234,
+          "pengantin": "Lazuardi",
+          "nama": "Pasangan Rian",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 235,
+          "pengantin": "Lazuardi",
+          "nama": "Yosita",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 236,
+          "pengantin": "Lazuardi",
+          "nama": "Suami Yosita",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 237,
+          "pengantin": "Lazuardi",
+          "nama": "Novira",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 238,
+          "pengantin": "Lazuardi",
+          "nama": "Suami",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 239,
+          "pengantin": "Lazuardi",
+          "nama": "Adisty",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 240,
+          "pengantin": "Lazuardi",
+          "nama": "Suami",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 241,
+          "pengantin": "Lazuardi",
+          "nama": "Dessy",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 242,
+          "pengantin": "Lazuardi",
+          "nama": "Suami",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 243,
+          "pengantin": "Lazuardi",
+          "nama": "KOMBES POL GATOT MANGKURAT PUTRA. P.J., S.I.K.",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 244,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 245,
+          "pengantin": "Lazuardi",
+          "nama": "AKBP BHAKTI SUHENDARWAN , S.I.K., M.T.C.P., C.F.E., C.Fr.A., C.H.F.I.",
+          "sesi": 2,
+          "undangan": "Cetak"
+        },
+        {
+          "id": 246,
+          "pengantin": "Lazuardi",
+          "nama": "Istri",
+          "sesi": 2,
+          "undangan": "Cetak"
+        }
+      ]
